@@ -1,1 +1,32 @@
 CHANGE 1
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    
+    <title>Great world</title>
+    <link rel="shortcut icon" href="favicon.png" type="image/icon" />
+    
+</head>
+<body>
+    <h1>Imagini cu nori</h1>
+  <img src="nori.jpeg" width="200" height="270">
+  <img src="cer.jpeg" width="350" height="350"> 
+    <h2>Imagini cu natura</h2>
+    <img src="natura.jpeg" width="550" height="260">
+
+   <ul>
+       <li><a href="https://www.google.ro/imgres?imgurl=https%3A%2F%2Fwww.zilesinopti.ro%2Fmedia%2F11521103905cbec8b16e2d99.96148124.jpg%2Fresize%3Fw%3D750&imgrefurl=https%3A%2F%2Fwww.zilesinopti.ro%2Farticole%2F24082%2Ffolk-rock-fest-cel-mai-nou-festival-din-piatra-craiului-la-zarnesti&docid=89QRFPp8MSkolM&tbnid=C16prPQn9lKhhM%3A&vet=10ahUKEwijt-uo2_HlAhUQZVAKHcaJAjEQMwhBKAIwAg..i&w=750&h=376&hl=en&bih=726&biw=994&q=imagini%20&ved=0ahUKEwijt-uo2_HlAhUQZVAKHcaJAjEQMwhBKAIwAg&iact=mrc&uact=8">imagini</a>   </li>
+       <li><a href="https://www.google.ro/maps/search/natura+rock+fest+imagini/@44.4547282,26.1998436,15z/data=!3m1!4b1?hl=en">Google maps</a>   </li>
+   </ul>
+   <ol>
+       <li>Imagini cu nori</li>
+       <li>Imagini cu natura</li>
+       <li>Link catre imagini</li>
+       <li>Link catre harti google</li>
+   </ol>
+</body>
+</html>
+
